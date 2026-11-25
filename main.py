@@ -12,9 +12,9 @@ import os
 import sys
 
 LINE = (
-    "Sorry, it's 3 AM and my buttons are asleep, my screen is dim, and "
+    "Sorry, it's 3 AM. My buttons are asleep, my screen is dim, and "
     "your 'urgent' token looks exactly like the last three scams. Come "
-    "back at sunrise and I'll sign anything."
+    "back at sunrise \u2014 I'll sign anything then."
 )
 
 
